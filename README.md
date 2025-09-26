@@ -5,7 +5,7 @@ Implementación de un interprete de comandos en linux
 
 ---
 
-## 📦 Requisitos
+## Requisitos
 - Sistema Linux o WSL (Windows Subsystem for Linux).
 - Compilador `gcc` instalado.
 - Herramientas de compilación (`make`).
