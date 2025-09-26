@@ -1,0 +1,24 @@
+# ==========================
+# Editor / IDE settings
+# ==========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==========================
+# Build artifacts
+# ==========================
+mishell
+src/*.o
+
+# ==========================
+# OS generated files
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Task-specific output
+# ==========================
+resultados.txt
